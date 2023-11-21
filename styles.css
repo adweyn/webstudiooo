@@ -107,7 +107,9 @@ fill:  #2196F3;
             
 }
 .main-content{
-    background: url(../WebStudio/compania.png);
+    background: url(../WebStudio/compania.png)no-repeat;
+    background-position-x:right ;
+    background-size: 100%;
     width: 100vw;
         height: 600px;
        padding-top: 200px;
